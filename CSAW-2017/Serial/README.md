@@ -1,6 +1,6 @@
 # CSAW17: Serial
 
-**Category**: Misc
+**Category**: Misc  
 **Points**: 50
 
 ## The Challenge
